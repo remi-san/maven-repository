@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.remisan.base</groupId>
+  <artifactId>model-hibernate</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140824214051</lastUpdated>
+  </versioning>
+</metadata>
